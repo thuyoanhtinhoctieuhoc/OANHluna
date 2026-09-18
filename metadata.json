@@ -1,0 +1,6 @@
+{
+  "name": "AI Tạo Bài Thi Trắc Nghiệm Offline",
+  "description": "Ứng dụng AI phân tích tài liệu (Word, PDF, ảnh, văn bản) và tự động tạo bài thi trắc nghiệm tương tác cho học sinh tiểu học, xuất file HTML chạy 100% offline không cần Internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
